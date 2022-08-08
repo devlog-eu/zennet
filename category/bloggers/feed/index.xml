@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bloggers - zennet</title>
+	<atom:link href="/category/bloggers/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>def-off outset</description>
+	<lastBuildDate>Fri, 17 Aug 2018 08:20:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-favi-90x90.jpg</url>
+	<title>Bloggers - zennet</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Audio</title>
+		<link>/2018/03/16/audio/</link>
+					<comments>/2018/03/16/audio/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 16 Mar 2018 08:52:49 +0000</pubDate>
+				<category><![CDATA[Bloggers]]></category>
+		<category><![CDATA[digital]]></category>
+		<category><![CDATA[topics]]></category>
+		<guid isPermaLink="false">/?p=117</guid>
+
+					<description><![CDATA[<p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla…</p>
+<p>The post <a href="/2018/03/16/audio/">Audio</a> first appeared on <a href="/">zennet</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="117" class="elementor elementor-117 elementor-bc-flex-widget">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-1fbaf1e5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1fbaf1e5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-77cd8d4a sc_layouts_column_icons_position_left" data-id="77cd8d4a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-17f0151 elementor-widget elementor-widget-text-editor" data-id="17f0151" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit.</p><p>Voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Aliquam bibendum lacus quis nulla dignissim faucibus. Sed mauris enim, bibendum at purus aliquet, maximus molestie tortor. Sed faucibus et tellus eu sollicitudin. Sed fringilla malesuada luctus.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1a9e097d elementor-widget elementor-widget-trx_widget_audio" data-id="1a9e097d" data-element_type="widget" data-widget_type="trx_widget_audio.default">
+				<div class="elementor-widget-container">
+			<div id="trx_widget_audio_93112208" class="widget_area sc_widget_audio"><aside id="trx_widget_audio_93112208_widget" class="widget widget_audio"><div class="trx_addons_audio_wrap">
+		<div class="trx_addons_audio_list">
+						<div class="trx_addons_audio_player
+				 without_cover				"
+								>
+					<div class="trx_addons_audio_player_wrap">
+											<div class="audio_info">
+															<h6 class="audio_author">Lily Hunter</h6>
+																<h5 class="audio_caption">Insert Audio Title Here</h5>
+														</div>
+											<div class="audio_frame audio_local">
+					<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-117-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2018/04/sample-melody.mp3?_=1" /><a href="/wp-content/uploads/2018/04/sample-melody.mp3">/wp-content/uploads/2018/04/sample-melody.mp3</a></audio>					</div>
+				</div>
+			</div>
+					</div>
+			</div></aside></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8bc1c0a elementor-widget elementor-widget-text-editor" data-id="8bc1c0a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit.					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+									</div>
+			</div>
+					</div><p>The post <a href="/2018/03/16/audio/">Audio</a> first appeared on <a href="/">zennet</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/2018/03/16/audio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="/wp-content/uploads/2018/04/sample-melody.mp3?_=1" length="248448" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title></title>
+		<link>/2018/03/08/121/</link>
+					<comments>/2018/03/08/121/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Thu, 08 Mar 2018 09:17:33 +0000</pubDate>
+				<category><![CDATA[Bloggers]]></category>
+		<category><![CDATA[creative]]></category>
+		<category><![CDATA[digital]]></category>
+		<guid isPermaLink="false">/?p=121</guid>
+
+					<description><![CDATA[<p>Рow to pursue pleasure rationally encounter consequences. that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it…</p>
+<p>The post <a href="/2018/03/08/121/"></a> first appeared on <a href="/">zennet</a>.</p>]]></description>
+										<content:encoded><![CDATA[<blockquote><p>Рow to pursue pleasure rationally encounter consequences. that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is.<br />
+<cite>Robin Smith</cite></p></blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p><p>The post <a href="/2018/03/08/121/"></a> first appeared on <a href="/">zennet</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/2018/03/08/121/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
