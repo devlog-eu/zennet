@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Team - zennet</title>
+	<atom:link href="/team/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>def-off outset</description>
+	<lastBuildDate>Mon, 17 Jan 2022 12:38:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-favi-90x90.jpg</url>
+	<title>Team - zennet</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Simon Jones</title>
+		<link>/team/simon-jones/</link>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Wed, 11 Apr 2018 12:53:08 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=cpt_team&#038;p=239</guid>
+
+					<description><![CDATA[<p>The designers that work at our studio are always ready to iterate on your ideas, employing an individual approach to every customer</p>
+<p>The post <a href="/team/simon-jones/">Simon Jones</a> first appeared on <a href="/">zennet</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>The designers that work at our studio are always ready to iterate on your ideas, employing an individual approach to every customer</p>
+<p>The post <a href="/team/simon-jones/">Simon Jones</a> first appeared on <a href="/">zennet</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Brian Smith</title>
+		<link>/team/brian-smith/</link>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Wed, 11 Apr 2018 12:51:09 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=cpt_team&#038;p=236</guid>
+
+					<description><![CDATA[<p>Our professional developers are up to any technical challenge set by our customers. Nothing is impossible with the right tools and skills</p>
+<p>The post <a href="/team/brian-smith/">Brian Smith</a> first appeared on <a href="/">zennet</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Our professional developers are up to any technical challenge set by our customers. Nothing is impossible with the right tools and skills</p>
+<p>The post <a href="/team/brian-smith/">Brian Smith</a> first appeared on <a href="/">zennet</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
